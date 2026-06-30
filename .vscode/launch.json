@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Simulacion Combustible UMSS",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "codigo-proyecto-simulacion"
+        }
+    ]
+}
