@@ -1,0 +1,11 @@
+# Clases compiladas (se regeneran con javac; ver README "Cómo ejecutar")
+bin/
+
+# Salidas generadas por la app (CSV/PNG exportados)
+salidas/*
+!salidas/.gitkeep
+
+# VS Code / Java
+.classpath
+.project
+.settings/
